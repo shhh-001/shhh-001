@@ -41,14 +41,4 @@ Passionate about:
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&layout=compact)
-
----
-
 ### ⚡ Engineering Intelligence. Deploying Impact.
